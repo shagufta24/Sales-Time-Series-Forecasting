@@ -1,4 +1,4 @@
-# Sales-TimeSeries-Forecasting  
+# Time Series Forecasting of Sales Data 
 A time-series forecasting project that builds predictive models for store sales by addressing seasonality, trends, and other external factors. This project integrates hypothesis testing, data preprocessing, feature engineering, and applies machine learning and statistical models to make accurate predictions.
 
 This project is part of the **[Kaggle Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)** competition.
